@@ -1,0 +1,152 @@
+*{
+    font-family: century gothic;    
+}
+.main{
+    width:50%;
+    height: 65vh;
+  
+    position: absolute;
+    top: 20%;
+    left: 25%;
+}
+.head{
+    
+    width:100% ;
+    height: 20%;
+    
+    position: relative;
+}
+.left{
+    font-size: 50px;
+    margin-top: 2%;
+    margin-left: 10px;
+}
+.bol{
+    font-size: 70px;
+    font-weight: bold;
+}
+.right{
+    right: 5px;
+    margin-right: 10px;
+    bottom: 20px;
+    position: absolute;
+    font-size: 40px;
+}
+.container{
+    width:100% ;
+    height: 70%;
+   
+    display: flex;
+    justify-content:space-between
+}
+.card{
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px black;
+    width:28%;
+    height: auto;
+    border-radius: 30px;
+    text-align: center;
+  
+}
+.redtex{
+    font-weight:lighter;
+    
+    font-size: 30px;
+    color: crimson;
+    
+}
+.strk{
+    text-decoration:line-through;
+    font-size:x-large;
+    color: red;
+}
+/* styles of trip Page*/
+.master{
+   
+    width: 50%;
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+}
+.hed{
+    padding-top: 10%;
+    height: 20%;
+   
+    font-size: 50px;
+}
+.butt{
+    padding-top: 30px;
+    height: 15%;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+
+.contain{
+    height: 60%;
+   
+  
+}
+.cardz{
+    border: 2px solid black;
+    background-color: white;
+    height: 70%;
+    width:40%;
+    border-radius: 30px;
+    margin-left: 30%;
+    box-shadow: 5px 5px 30px  black;
+    
+}
+.pen{
+    font-size:x-large;
+}
+#corner{
+    color: red;
+    font-size: large;
+   
+}
+/* STYLES FOR ADD NEW BUTTON */
+.star{
+    position: absolute;
+    top: 20%;
+ width: 30%;
+ height: 30vh;
+ border: 4px solid red;   
+ border-radius: 30px;
+ margin-left: 35%;
+ margin-top: 35vh;
+ box-shadow: 10px 10px 50px black;
+}
+.top{
+    height: 20%;
+  
+    text-align: center;
+    padding-top: 5%;
+    font-size: xx-large;
+    color: crimson;
+}
+.med{
+    height: 20%;
+   
+    text-align: center;
+    padding-top: 5%;
+}
+.in{
+    font-size:150%;
+    
+}
+.button{
+    height: 30%;
+  
+    text-align: center;
+}
+.round{
+    font-size:30px;
+    border-radius: 30px;
+    color: white;
+    background-color: red;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}
